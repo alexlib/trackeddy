@@ -112,3 +112,4 @@ version_control/
 
 docs/generated
 docs/pages/generated
+uv.lock
